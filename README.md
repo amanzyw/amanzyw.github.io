@@ -1,2 +1,2 @@
 # amanzyw.github.io
-我的个人github网站
+我的个人github主页
